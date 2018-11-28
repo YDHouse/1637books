@@ -5,5 +5,4 @@
  > #### DB: mariaDB
 <br />
 
-![app_image_01](./src/ydbs/img_main_01.PNG)
 <img src="./src/ydbs/img_main_01.png" width="1024px" height="480px"></img>
